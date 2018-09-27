@@ -1,0 +1,24 @@
+name: Employment
+source:
+  - prof: Software Engineer in Test
+    place: SolidFire (Acquired by NetApp), Boulder, CO
+    time: July 2015 to June 2018
+    description:
+      - Led quality and automation teams for NetApp’s first Software Defined Storage product
+      - Initiated the effort to design and implement a new Python test framework
+      - Wrote test strategies and plans for various SolidFire AFA features
+      - Developed and triaged hundreds of test suites and cases across multiple teams
+
+  - prof: Software Engineer
+    place: Seagate, Longmont, CO and Shakopee, MN
+    time: May 2012 to July 2015
+    description:
+      - Internal software and tools admin, focused on maintenance and support
+      - Developed automated test systems and PIC micro-controller firmware
+
+  - prof: Teaching Assistant
+    place: University of Minnesota, Minneapolis, MN
+    time: 2013 to 2014
+    description:
+      - Assisted incoming engineering students with product development
+      - Helped the university develop the new course

@@ -1,0 +1,37 @@
+baseurl = "https://jhselvik.com/"
+languageCode = "en-US"
+title = "Joe Selvik"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+theme = "hugo-sustain-vitae"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "architecture-sq_200.jpg"
+  author = "Joe Selvik"
+  description = "Hello, I'm Joe and this is a little bit about me"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  Github        = "jhselvik"
+  Email         = "joeselvik@gmail.com"
+  LinkedIn      = "jhselvik"
+
+[params.vitae]
+  website = "www.jhselvik.com"
+  website_full = "https://www.jhselvik.com"
+  city = "Denver, Colorado"
+
+## Main Menu
+[[menu.main]]
+  name = "resume"
+  identifier = "resume"
+  weight = 300
+  url = "/vitae/"

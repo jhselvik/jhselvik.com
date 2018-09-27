@@ -1,0 +1,11 @@
+name: Programming Skills
+title: Software engineering & web development
+source:
+  - name: [Python, Git, Linux]
+    stars: 5
+
+  - name: [Software Testing, Docker, MySQL/SQLite, Jenkins, OSX/iOS]
+    stars: 4
+
+  - name: [Go, Kubernettes, Objective-C, JavaScript, Mercurial]
+    stars: 3

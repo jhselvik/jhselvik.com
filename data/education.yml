@@ -1,0 +1,15 @@
+name: Education
+source:
+  - title: Bachelor of Computer Engineering
+    univ: University of Minnesota
+    place: Minneapolis, MN
+    date: 2010 to 2014
+    activities:
+      - name: CSE Winter Light Show, Co-founder
+        description:
+          - Assisted with anything from PCB design, firmware, finances, and management
+          - Attracts thousands of viewers every winter
+      - name: Tesla Works student organization, Board Member
+        description:
+        - Enabled students to leverage the universities’ resources for their own personal projects
+        - Helped establish the ExCEED student-run laboratory to fuel collaboration
