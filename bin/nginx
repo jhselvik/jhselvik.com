@@ -3,7 +3,7 @@ set -e
 set -o pipefail
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-IMAGE="nginx:alpine"
+IMAGE="nginx:latest"
 
 docker pull ${IMAGE}
 
