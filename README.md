@@ -1,6 +1,6 @@
 ## jhselvik.com
 
-[jhselvik.com](www.jhselvik.com), built with Hugo.
+[jhselvik.com](jhselvik.com), built with Hugo.
 
 # Usage
 

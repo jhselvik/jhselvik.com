@@ -25,8 +25,8 @@ theme = "hugo-sustain-vitae"
   LinkedIn      = "jhselvik"
 
 [params.vitae]
-  website = "www.jhselvik.com"
-  website_full = "https://www.jhselvik.com"
+  website = "jhselvik.com"
+  website_full = "https://jhselvik.com"
   city = "Denver, Colorado"
 
 ## Main Menu
